@@ -7,6 +7,8 @@ public class Demo {
 System.out.println("Hello");
 System.out.println("Main method hai");
 System.out.println("hello cjccc");
+System.out.println("git to eclipse");		
+		
 	}
 
 }
