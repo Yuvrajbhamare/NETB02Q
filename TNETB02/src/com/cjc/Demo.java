@@ -6,6 +6,7 @@ public class Demo {
 		
 		
   System.out.println("program 2");
+System.out.println("program 2 from git to eclipse");		
   
 
 	}
