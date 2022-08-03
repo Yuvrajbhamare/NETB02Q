@@ -1,6 +1,8 @@
 package com.cjc;
 
 public class Demo {
+	public void m1()
+		System.out.println("git to eclise 2");
 
 	public static void main(String[] args) {
 		
